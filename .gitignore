@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea
+# config files
+consts.ini
+
+# test files
+[Tt]est*
+
+# stockfish
+stockfish-11-win
